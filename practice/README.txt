@@ -1,0 +1,1 @@
+These are for my personal practice. The resources are sourced from an online web development bootcamp by Dr. Angela Yu.
