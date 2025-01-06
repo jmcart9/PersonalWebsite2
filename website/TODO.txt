@@ -1,1 +1,1 @@
-* Remove "website\src\styles.css". Figure out correct pollyfills.
+* Remove "website\src\styles.css". Figure out correct pollyfills. CSS styles are currently coming from two different files.
